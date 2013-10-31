@@ -1,4 +1,4 @@
-ion
+ION
 ===
 
-ION Language
+ION Language interpreter (inspired by C#)
